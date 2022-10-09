@@ -2,8 +2,8 @@
 
 <html>
 <head>
-<title></title>
-<!-- Apply styles to html elements -->
+<title> Animated website home page user</title>
+<!-- Apply  new styles to html elements -->
 <style>
 *{
 margin:0; padding:0; boxsizing:border-box;
@@ -66,7 +66,7 @@ border: 7px solid red;
 <!--Check out the styling elements for this div class - change_text -->
 <div class = "change_text"><b>WELCOME TO XXX ELECTRONICS</b></div>
 <!--make text italic-->
-<p><i>All your electronics needs in one place</i></p><br>
+<p><i>All your electronics needs at a place</i></p><br>
 <!--create a button, if there is a form, you can specify an action on click-->
 <input type = button value = "view more">
 </section>
