@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title> Animated website page user</title>
+<title> Animated website </title>
 <!-- Apply  new styles to html elements -->
 <style>
 *{
@@ -64,7 +64,7 @@ border: 7px solid red;
 <main>
 <section>
 <!--Check out the styling elements for this div class - change_text -->
-<div class = "change_text"><b>WELCOME TO My ELECTRONICS</b></div>
+<div class = "change_text"><b>WELCOME TO My website</b></div>
 <!--make text italic-->
 <p><i>All your electronics</i></p><br>
 <!--create a button, if there is a form, you can specify an action on click-->
